@@ -1,0 +1,19 @@
+header{
+    font-style: normal;
+    font-size: xx-large;
+    position: sticky;
+    top: 0%;
+    bottom: 0%;
+    background-color: aquamarine;
+    color: black;
+}
+image{
+    height: 400px;
+    width: 400px;
+}
+h2{
+    color: chocolate;
+}
+p{
+    color: coral;
+}
